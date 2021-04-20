@@ -30,7 +30,7 @@ function preload(){
   oppRed1Img = loadAnimation("opponent7.png","opponent8.png");
   oppRed2Img = loadAnimation("opponent9.png");
   
-  cycleBell = loadSound("sound/bell.mp3");
+  cycleBell = loadSound("bell.mp3");
   gameOverImg = loadImage("gameOver.png");
 }
 
